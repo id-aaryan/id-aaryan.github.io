@@ -1,4 +1,4 @@
-Company: Stealth AI human factors software startup
+# Stealth AI human factors software startup
 
 Summary: Traditional software for carrying out human factors and ergonomics assessments is slow, manual and expensive. We are automating these assessments to speed up the engineering timeline tenfold.
 
